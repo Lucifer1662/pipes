@@ -1,0 +1,3 @@
+/workspaces/pipes/build/CMakeFiles/rebuild_cache.dir
+/workspaces/pipes/build/CMakeFiles/edit_cache.dir
+/workspaces/pipes/build/CMakeFiles/pipe.dir

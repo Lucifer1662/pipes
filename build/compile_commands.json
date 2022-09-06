@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspaces/pipes/build",
+  "command": "/usr/bin/g++ -g -std=c++17 -o CMakeFiles/pipe.dir/pipe.cc.o -c /workspaces/pipes/pipe.cc",
+  "file": "/workspaces/pipes/pipe.cc"
+}
+]
